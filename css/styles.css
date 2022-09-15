@@ -7680,7 +7680,7 @@ button.bg-dark:focus {
 
 .mb-5,
 .my-5 {
-  margin-bottom: 6rem !important;
+  margin-bottom: 3rem !important;
 }
 
 .ml-5,
@@ -10157,7 +10157,7 @@ section.resume-section {
   align-items: center;
   padding-left: 1rem;
   padding-right: 1rem;
-  padding-top: 1rem;
+  padding-top: 0rem;
   padding-bottom: 5rem;
   max-width: 75rem;
 }
